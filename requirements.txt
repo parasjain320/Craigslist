@@ -6,7 +6,7 @@ colorama==0.4.1
 Django==2.2.5
 django-atom==0.16.3
 django-bootstrap4==1.0.1
-django-debug-toolbar==2.0
+django-debug-toolbar==2.2.1
 django-extensions==2.2.3
 entrypoints==0.3
 Faker==2.0.2
